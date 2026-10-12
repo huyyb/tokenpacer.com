@@ -4,26 +4,27 @@
         <title>TokenPacer</title>
         <item>
             <title>1.4.0</title>
-            <pubDate>Mon, 05 Oct 2026 07:22:22 +0000</pubDate>
-            <sparkle:version>302</sparkle:version>
+            <pubDate>Mon, 12 Oct 2026 14:05:28 +0000</pubDate>
+            <sparkle:version>307</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>⚡ <strong>Refresh a stale reading where it appears, and get fresh figures when your connection returns.</strong></p>
+            <description><![CDATA[<p>⚡ <strong>Refresh a reading where you see it, get fresh figures when your connection returns, and see each usage warning only once.</strong></p>
 <h3>✨ New</h3>
 <ul>
 <li>↻ Click the "updated" time on the card to read usage again; the separate refresh icon is gone.</li>
 <li>💬 The activity line now names Claude, Codex, or Copilot instead of saying "a model."</li>
+<li>📋 "Copy diagnostic info" in the notch menu copies a report of every CLI to your clipboard, ready for a bug report.</li>
 <li>🔓 Token Pacer's source is now public under the MIT license.</li>
 </ul>
 <h3>🔧 Fixed</h3>
 <ul>
-<li>📡 When a CLI cannot connect, its row says so instead of reporting an unreadable usage panel.</li>
-<li>🔄 Failed providers retry when the network returns, and fresh readings clear stale errors.</li>
+<li>🔔 The usage warning no longer reappears every five minutes. Each mark shows once, and again only after usage drops back under it.</li>
+<li>📡 When a CLI can't connect, its row says so, and readings retry as soon as the network is back.</li>
 <li>⬇️ In-app update checks now use the app's public GitHub release feed.</li>
 </ul>
 <p>💬 Tell me what breaks: <a href="https://tokenpacer.com/#feedback" rel="nofollow">https://tokenpacer.com/#feedback</a></p>]]></description>
-            <enclosure url="https://github.com/heybui/token-pacer/releases/download/v1.4.0/TokenPacer-1.4.0.dmg" length="3815478" type="application/octet-stream" sparkle:edSignature="BUwg/ss1FeHBJFTWCgQ9Dp+rW4SuT+YyVUVmGfuBhUQUQwUn+bmyJtoGcrbuT1J99CHrNYqajHb8LRyqZwJBAA=="/>
+            <enclosure url="https://github.com/heybui/token-pacer/releases/download/v1.4.0/TokenPacer-1.4.0.dmg" length="3779028" type="application/octet-stream" sparkle:edSignature="9HbFK9SI5+FBqEKq7WRE+BWPq47VUVCFbt0o6+4zayJLJsWFqEK25SpvRXqsqSWvwYRD+aD2wyAU5HUOxG1+BA=="/>
         </item>
     </channel>
 </rss>
