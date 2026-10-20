@@ -15,7 +15,7 @@
 <li>📊 Copilot sometimes reports a metered account as unlimited for a single read. Token Pacer now keeps your last figure through that reply instead of showing an error.</li>
 </ul>
 <p>💬 Tell me what breaks: <a href="https://tokenpacer.com/#feedback" rel="nofollow">https://tokenpacer.com/#feedback</a></p>]]></description>
-            <enclosure url="https://github.com/heybui/token-pacer/releases/download/v1.4.1/TokenPacer-1.4.1.dmg" length="3779353" type="application/octet-stream" sparkle:edSignature="XoL3CACN0tuKH+QZKWZtOJpPOGs7hABQ3K0ORmr2265fwfjTfZXBurvAdtJhsE5yKcIaX5ZyH16/8GyVm5A3Bg=="/>
+            <enclosure url="https://github.com/huyyb/token-pacer/releases/download/v1.4.1/TokenPacer-1.4.1.dmg" length="3779353" type="application/octet-stream" sparkle:edSignature="XoL3CACN0tuKH+QZKWZtOJpPOGs7hABQ3K0ORmr2265fwfjTfZXBurvAdtJhsE5yKcIaX5ZyH16/8GyVm5A3Bg=="/>
         </item>
     </channel>
 </rss>

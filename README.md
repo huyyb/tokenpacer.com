@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heybui/token-pacer/releases/latest"><img src="https://img.shields.io/github/v/release/heybui/token-pacer?label=version&color=3ec98a" alt="Latest version"></a>
-  <a href="https://github.com/heybui/token-pacer/releases"><img src="https://img.shields.io/github/downloads/heybui/token-pacer/total?color=3ec98a" alt="Downloads"></a>
+  <a href="https://github.com/huyyb/token-pacer/releases/latest"><img src="https://img.shields.io/github/v/release/huyyb/token-pacer?label=version&color=3ec98a" alt="Latest version"></a>
+  <a href="https://github.com/huyyb/token-pacer/releases"><img src="https://img.shields.io/github/downloads/huyyb/token-pacer/total?color=3ec98a" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/macOS-15%2B-1d1f26?logo=apple&logoColor=white" alt="macOS 15+">
   <img src="https://img.shields.io/badge/price-free-e8b33c" alt="Free">
   <a href="https://buymeacoffee.com/heybui"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-ffdd00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/heybui/token-pacer/releases/latest"><strong>Download for macOS</strong></a> ·
+  <a href="https://github.com/huyyb/token-pacer/releases/latest"><strong>Download for macOS</strong></a> ·
   <a href="https://tokenpacer.com">tokenpacer.com</a> ·
   <a href="https://tokenpacer.com/press">Press kit</a>
 </p>
@@ -60,7 +60,7 @@ all day, so you never have to ask.**
 
 ## Install
 
-**Download** the latest DMG from [Releases](https://github.com/heybui/token-pacer/releases/latest),
+**Download** the latest DMG from [Releases](https://github.com/huyyb/token-pacer/releases/latest),
 or with Homebrew:
 
 ```sh
@@ -72,7 +72,7 @@ It updates itself from then on. Free, no strings.
 ## Tell me what breaks
 
 Found a bug or want another agent tracked? [Send feedback](https://tokenpacer.com/#feedback)
-or [open an issue](https://github.com/heybui/token-pacer/issues). If Token Pacer
+or [open an issue](https://github.com/huyyb/token-pacer/issues). If Token Pacer
 saved you an afternoon, you can [buy me a coffee](https://buymeacoffee.com/heybui) ☕
 
 ---
@@ -81,7 +81,7 @@ saved you an afternoon, you can [buy me a coffee](https://buymeacoffee.com/heybu
 
 This is the website at [tokenpacer.com](https://tokenpacer.com).
 
-- **App releases live in [token-pacer](https://github.com/heybui/token-pacer/releases).**
+- **App releases live in [token-pacer](https://github.com/huyyb/token-pacer/releases).**
   This repo serves the Sparkle appcast at `public/appcast.xml`.
 - **The changelog modal reads the latest app release** from the GitHub API and parses
   its body, so editing release notes needs no redeploy.

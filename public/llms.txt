@@ -6,9 +6,9 @@
 - Price: free. Optional tip at https://buymeacoffee.com/heybui
 - Built with: native Swift and CoreAnimation, no web view
 - Developer: heybui
-- Install: download the DMG from https://github.com/heybui/token-pacer/releases/latest or run `brew install --cask redevify/tap/token-pacer`
+- Install: download the DMG from https://github.com/huyyb/token-pacer/releases/latest or run `brew install --cask redevify/tap/token-pacer`
 - Updates: installs updates itself via Sparkle (automatic checks on by default)
-- Support: support@tokenpacer.com, or https://github.com/heybui/token-pacer/issues
+- Support: support@tokenpacer.com, or https://github.com/huyyb/token-pacer/issues
 
 ## The problem it solves
 
@@ -91,10 +91,10 @@ All reads are local and read-only. The only file Token Pacer writes is its own s
 
 ## Downloads and releases
 
-- [Latest release](https://github.com/heybui/token-pacer/releases/latest): notarized DMG
-- [All releases and changelog](https://github.com/heybui/token-pacer/releases)
+- [Latest release](https://github.com/huyyb/token-pacer/releases/latest): notarized DMG
+- [All releases and changelog](https://github.com/huyyb/token-pacer/releases)
 - [Sparkle appcast](https://tokenpacer.com/appcast.xml): current version, minimum macOS and DMG URL
-- [Issues](https://github.com/heybui/token-pacer/issues): public bug reports and requests
+- [Issues](https://github.com/huyyb/token-pacer/issues): public bug reports and requests
 
 ## Press assets
 
@@ -113,5 +113,5 @@ All reads are local and read-only. The only file Token Pacer writes is its own s
 
 ## Optional
 
-- [Source of this website](https://github.com/heybui/tokenpacer.com): Vue site and the Sparkle appcast. [App source and releases](https://github.com/heybui/token-pacer) are public.
+- [Source of this website](https://github.com/huyyb/tokenpacer.com): Vue site and the Sparkle appcast. [App source and releases](https://github.com/huyyb/token-pacer) are public.
 - [Buy me a coffee](https://buymeacoffee.com/heybui)

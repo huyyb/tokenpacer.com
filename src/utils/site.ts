@@ -2,7 +2,7 @@
 export const SITE_URL = 'https://tokenpacer.com'
 export const BREW = 'brew install --cask redevify/tap/token-pacer'
 // The app's public repo holds releases; this site keeps Sparkle's feed URL.
-export const RELEASE_REPO = 'heybui/token-pacer'
+export const RELEASE_REPO = 'huyyb/token-pacer'
 export const DOWNLOAD_URL = `https://github.com/${RELEASE_REPO}/releases/latest`
 // Mailchimp's embedded-form endpoint, swapped to post-json for the JSONP reply.
 export const MC_ACTION =
