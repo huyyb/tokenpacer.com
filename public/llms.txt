@@ -5,7 +5,7 @@
 - Platform: macOS 15 or later, Apple silicon (arm64)
 - Price: free. Optional tip at https://buymeacoffee.com/heybui
 - Built with: native Swift and CoreAnimation, no web view
-- Developer: heybui
+- Developer: huyyb
 - Install: download the DMG from https://github.com/huyyb/token-pacer/releases/latest or run `brew install --cask redevify/tap/token-pacer`
 - Updates: installs updates itself via Sparkle (automatic checks on by default)
 - Support: support@tokenpacer.com, or https://github.com/huyyb/token-pacer/issues
